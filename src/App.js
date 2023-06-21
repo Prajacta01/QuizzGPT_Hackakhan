@@ -9,7 +9,7 @@ function App() {
   const [cardsList, setCardsList] = useState(null)
   const [cards, setCards] = useState(cardsList)
 
-  const apiKey = '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'
+  const apiKey = ' ' // api code
   const model = 'text-davinci-003'
 
   // credit to flashcard code from https://nabendu82.medium.com/build-a-flashcard-quiz-with-react-c1cb96e3a1e8 by Nabendu Biswas
